@@ -1,0 +1,9 @@
+#destacado { color: red; }
+
+.hola {
+    color: blue;
+}
+
+.hola#destacado {
+    color:green
+}

@@ -1,0 +1,5 @@
+.error { color: red; }
+p.destacado.error { font-size: 30px; }
+.especial { font-weight: bold; }
+p, .destacado {color: green}
+p .destacado {color: blue}
